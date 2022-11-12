@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Serg
 - 👀 I’m interested in Golang, TinyGO, MCU, electronics design
-- 📚 Use without fuss and learn 
+- 📚 Using and learning them
 - 💞️ Not against cooperation
 - 📫
 <!---
