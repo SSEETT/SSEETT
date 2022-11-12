@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Serg
 - 👀 I’m interested in Golang, TinyGO, MCU, electronics design
 - 📚 Using and learning them
-- 💞️ Not against cooperation
+- 💞️ Ready for cooperation
 - 📫
 <!---
 SSEETT/SSEETT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
